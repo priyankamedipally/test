@@ -12,13 +12,13 @@ public class ObjRepo_Login extends BaseClass {
 	
 	WebDriver driver;
 	
-	@FindBy(how = How.XPATH, using = "//*[@id='session_key-login']") 
+	@FindBy(how = How.XPATH, using = "//*[@id='session_key-login']123") 
 	public static WebElement txt_edit_emailId;
 	
 	@FindBy(how = How.XPATH, using = "//*[@id='session_password-login']") 
 	public static WebElement txt_edit_password;
 	
-	@FindBy(how = How.XPATH, using = "//*[@id='btn-primary']123") 
+	@FindBy(how = How.XPATH, using = "//*[@id='btn-primary']") 
 	public static WebElement submitButton_login;
 	
 	

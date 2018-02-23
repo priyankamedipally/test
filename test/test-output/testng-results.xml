@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12980" started-at="2018-02-20T17:30:19Z" finished-at="2018-02-20T17:30:32Z">
+  <suite name="Default suite" duration-ms="14593" started-at="2018-02-23T15:50:42Z" finished-at="2018-02-23T15:50:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12980" started-at="2018-02-20T17:30:19Z" finished-at="2018-02-20T17:30:32Z">
+    <test name="Default test" duration-ms="14593" started-at="2018-02-23T15:50:42Z" finished-at="2018-02-23T15:50:57Z">
       <class name="linkdin.TC_Login">
-        <test-method status="PASS" signature="init()[pri:0, instance:linkdin.TC_Login@1af5db5]" name="init" is-config="true" duration-ms="4930" started-at="2018-02-20T23:00:19Z" finished-at="2018-02-20T23:00:24Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:linkdin.TC_Login@1f27fae]" name="init" is-config="true" duration-ms="5863" started-at="2018-02-23T21:20:42Z" finished-at="2018-02-23T21:20:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="login()[pri:0, instance:linkdin.TC_Login@1af5db5]" name="login" duration-ms="5681" started-at="2018-02-20T23:00:24Z" finished-at="2018-02-20T23:00:29Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:linkdin.TC_Login@1f27fae]" name="login" duration-ms="6027" started-at="2018-02-23T21:20:48Z" finished-at="2018-02-23T21:20:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:linkdin.TC_Login@1af5db5]" name="tearDown" is-config="true" duration-ms="2347" started-at="2018-02-20T23:00:29Z" finished-at="2018-02-20T23:00:32Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:linkdin.TC_Login@1f27fae]" name="tearDown" is-config="true" duration-ms="2682" started-at="2018-02-23T21:20:54Z" finished-at="2018-02-23T21:20:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
